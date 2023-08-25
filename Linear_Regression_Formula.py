@@ -1,3 +1,6 @@
+# this code given a XY dataset shows the line of best fit and the gamma of errors
+# using a known formula of means
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
