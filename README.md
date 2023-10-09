@@ -1,7 +1,7 @@
 # AI-ML
 A dedicated repository to everything I learn on Artificial Inteligence/Machine Learning
-![App Screenshot](screenshot_1.png)
-![App Screenshot](screenshot_2.png)
+![App Screenshot](screenshot_1.jpeg)
+![App Screenshot](screenshot_2.jpeg)
 ## Basic Concepts
 ### Main Types of Machine Learning
 
