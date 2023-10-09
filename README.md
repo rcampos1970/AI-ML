@@ -1,5 +1,11 @@
 # AI-ML
 A dedicated repository to everything I learn on Artificial Inteligence/Machine Learning
+<table>
+  <tr>
+    <td><img src="screenshot_1.jpeg" alt="graph from Linear_Regression_Formula.py"></td>
+    <td><img src="screenshot_2.jpeg" alt="data for Linear Regression_Formula.py"></td>
+  </tr>
+</tabl
 ![App Screenshot](screenshot_1.jpeg)
 ![App Screenshot](screenshot_2.jpeg)
 ## Basic Concepts
